@@ -1,0 +1,9 @@
+{
+	"name": "Movie-Analyst-API",
+	"main": "server.js",
+	"dependencies": {
+		"express": "4.14.0",
+		"express-jwt": "3.4.0",
+		"auth0-api-jwt-rsa-validation": "0.0.1"
+	}
+}
